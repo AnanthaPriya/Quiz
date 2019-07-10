@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     TextView name;
     Button sq,vs;
     String nam;
-    //priyaaaa
+    //priyaaaatttt
 
 
     @Override
